@@ -1,1 +1,1 @@
-# RISC-V-Neural-Net-Accelerator
+# RISC-V Neural Net Accelerator
