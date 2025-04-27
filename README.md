@@ -10,7 +10,7 @@ This Python program simulates a basic 5-stage pipeline of a CPU, designed to acc
 4. **Memory**: Memory operations (load or store) are performed in this stage.
 5. **Writeback**: The result of the operation is written back to the appropriate register.
 
-![Pipeline](https://www.researchgate.net/profile/Sajjad-Ahmed-23/publication/355051535/figure/fig3/AS:1076240400289792@1633607115859/The-RISC-V-ISA-compliant-RV32IM-5-Stage-fully-pipelined-datapath-designed-from-scratch.ppm)
+![Pipeline](https://www.alrj.org/images/riscv/Pipeline_summary.png)
 
 The simulator tracks the program counter (PC), registers, memory, and the state of each pipeline stage. It also tracks the historical values of registers and provides a graphical plot of register activity over time.
 
