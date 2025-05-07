@@ -1,4 +1,4 @@
-# cpu_mac.py
+# train.py
 
 import time
 import matplotlib.pyplot as plt
